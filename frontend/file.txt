@@ -1,0 +1,4 @@
+1.show last message below the name instead of mail id
+2.In search bar can use mobile number or mail id to search
+3.don't show all the user instead show the preveously chatted one only
+4.don't show the user(who is logged in) in the chat list
