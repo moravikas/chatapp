@@ -20,7 +20,7 @@ connectDB();
 
 app.use(
   cors({
-    origin: "http://localhost:5173",
+    origin: "https://chatapp-virid-eight.vercel.app/",
     credentials: true,
   })
 );
